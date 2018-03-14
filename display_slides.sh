@@ -1,1 +1,1 @@
-jupyter nbconvert --to slides --post serve --reveal-prefix=reveal.js SciTech\ Data.ipynb
+jupyter nbconvert --to slides --post serve --reveal-prefix=reveal.js NHW_SciTech_Data.ipynb
