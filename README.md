@@ -10,7 +10,9 @@ You're on github, which is where researchers and code monkeys and random people 
 If you want to get this directory full of stuff and play with it, you'll need to "clone" the repository, for which you need a program called "git" running on your computer.
 
 If you're using a Mac, go here: https://git-scm.com/download/mac
+
 If you're using Windows, go here: https://gitforwindows.org/
+
 If you're using Linux, open a terminal and type:
 
 sudo apt install git
@@ -50,5 +52,9 @@ Some of the plots might need you to sign in to http://plot.ly. Sorry about that;
 Python is way more powerful than just this talk is showing. It's a real programming language and it's what most of my code is written in. To see some examples you could have a look at some of my other repositories. But to get started I recommend Googling for some "how to get started with python" information, and go from there.
 
 Hope you enjoyed the talk!
+
 Natasha Hurley-Walker
+
 nhw@icrar.org
+
+20/03/2018
