@@ -1,6 +1,5 @@
-# scitech-data-talk-20180310
+# 2018-03-20-SciTech-Data
 A talk I gave to a class of gifted and talented students at SciTech, via jupyter notebook and plot.ly
-
 
 If you're reading this, you're probably one of the audience. If so, well done! It probably took a fair bit of effort to get this far.
 
@@ -41,6 +40,12 @@ If everything is installed properly, it should "magically" open a browser window
 If you want to run a slideshow instead, type:
 
 jupyter nbconvert --to slides --post serve --reveal-prefix=reveal.js NHW_SciTech_Data.ipynb
+
+or if you're on Linux, the built-in script
+./display_slides.sh
+should work.
+
+Some of the plots might need you to sign in to http://plot.ly. Sorry about that; it's a nice way of making them look fancy. You can find out about simpler plotting code by googling the "matplotlib" module which would have come with python in your Anaconda install.
 
 Python is way more powerful than just this talk is showing. It's a real programming language and it's what most of my code is written in. To see some examples you could have a look at some of my other repositories. But to get started I recommend Googling for some "how to get started with python" information, and go from there.
 
